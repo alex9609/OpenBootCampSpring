@@ -4,11 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="854a8931-204a-498c-be34-dd0eb9f0e477" name="Changes" comment="" />
+    <list default="true" id="854a8931-204a-498c-be34-dd0eb9f0e477" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ejercicio/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/src/main/java/org/example/NotationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/src/main/java/org/example/Saludo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/src/main/java/org/example/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejercicio/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -27,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/alexa/OneDrive/OpenBootCamp/Spring/ob-springdatajpa",
+    "last_opened_file_path": "C:/Users/alexa/OneDrive/OpenBootCamp/Spring/obj-spring-scan",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
