@@ -1,15 +1,20 @@
 package com.example.obrestdatajpa.entities;
 
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+
 import javax.persistence.*;
 import java.time.LocalDate;
 
 @Entity
 @Table(name="books")
+@ApiModel("Entidad Book para representar un Libro")
 public class Book {
 
     //Atributos
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @ApiModelProperty("Clave ficiticia auoincremental de tipo long")
     private Long id;
     private String title;
     private String author;
