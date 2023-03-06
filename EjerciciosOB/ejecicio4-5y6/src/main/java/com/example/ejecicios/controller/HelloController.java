@@ -1,4 +1,4 @@
-package com.example.ejecicio4.y6.controller;
+package com.example.ejecicios.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

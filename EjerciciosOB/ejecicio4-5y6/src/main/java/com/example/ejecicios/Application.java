@@ -1,7 +1,7 @@
-package com.example.ejecicio4.y6;
+package com.example.ejecicios;
 
-import com.example.ejecicio4.y6.entity.Laptop;
-import com.example.ejecicio4.y6.repository.LaptopRepository;
+import com.example.ejecicios.repository.LaptopRepository;
+import com.example.ejecicios.entity.Laptop;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

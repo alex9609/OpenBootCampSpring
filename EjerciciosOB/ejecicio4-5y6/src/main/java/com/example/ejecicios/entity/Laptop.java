@@ -1,6 +1,6 @@
-package com.example.ejecicio4.y6.entity;
+package com.example.ejecicios.entity;
 
-import jakarta.persistence.*;
+import javax.persistence.*;
 
 @Entity
 @Table(name="Laptop")
